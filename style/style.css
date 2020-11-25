@@ -123,10 +123,10 @@ body {
 }
 
 .six .hat {
-  position: left;
+  position: top left;
   width: 80px;
   top: -30px;
-  left: 10.5%;
+  left: -20.5%;
   /* transform: scale(0.1); */
 }
 
